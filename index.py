@@ -1,0 +1,3 @@
+name=(vinod)
+print (vinod)
+
